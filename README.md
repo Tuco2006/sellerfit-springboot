@@ -13,6 +13,14 @@ Equipe SellerFit:
 A documentação completa (endpoints, protótipo, modelo do banco e diagrama de classes) está em
 `documentacao/SellerFit_Documentacao_Sprint4.pdf`.
 
+## Projeto publicado
+
+- Site (Vercel): https://sellerfit-front.vercel.app/
+- API (Render): https://sellerfit-springboot.onrender.com
+
+A API usa o plano gratuito do Render, que desliga depois de um tempo sem uso. O primeiro acesso pode
+levar cerca de um minuto.
+
 ## O que precisa ter instalado
 
 - Java 21
